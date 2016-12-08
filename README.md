@@ -4,11 +4,11 @@
 ## YANN LE GUILLY                          
 
 
-== PURPOSE ==
+== PURPOSE ==  
 
-This program is manipulating the Gauss-Legendre quadratic.
+This program is manipulating the Gauss-Legendre quadratic.  
 
-== CONTENTS ==
+== CONTENTS ==  
 
 In the bundle, you will find:
 - cf.txt
@@ -16,18 +16,18 @@ In the bundle, you will find:
 - gauss_legendre.f90
 - makefile
 
-== INSTALLATION ==
+== INSTALLATION ==  
 
-To compile:
-$ make
+To compile:  
+$ make  
 
-To run the program:
-$ ./gauss_legendre
+To run the program:  
+$ ./gauss_legendre  
 
-To delete .exe and .o:
-$ make clean
+To delete .exe and .o:  
+$ make clean  
 
-== DOCUMENTATION ==
+== DOCUMENTATION ==  
 See the report in pdf
 
-== CHANGES ==
+== CHANGES ==  
